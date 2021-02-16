@@ -1,0 +1,5 @@
+package curso.springboot.model;
+
+public class Telefone {
+
+}
