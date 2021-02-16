@@ -1,0 +1,24 @@
+
+
+GitHub
+Usuário: wendelllopes2@yahoo.com.br
+Senha: 041183
+
+------------ Commando do Git Bash ------------------------
+
+$ git init ( Iniciar )
+$ git status ( listar o que estar na pasta )
+$ git add *
+$ git add . ( deixa no ponto de enviar)
+$ git commit -m "Backup : 13/02/2021"
+$ git remote add origin https://github.com/wendell-comp/Sistema-de-Gestao-de-Pessoas.git
+$ git push -u origin master
+-----------------------------------------------------------
+
+
+# git init ( Iniciar )
+# git add .  
+#  git pull origin master --allow-unrelated-histories
+ (Incorpore as mudanças do seu projeto remoto com seu projeto local)
+# git commit -m "Backup: 16/02/2021"
+# git pull origin https://github.com/wendell-comp/Sistema-de-Gestao-de-Pessoas.git
