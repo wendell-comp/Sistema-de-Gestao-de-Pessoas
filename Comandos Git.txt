@@ -12,13 +12,11 @@ $ git add *
 $ git add . ( deixa no ponto de enviar)
 $ git commit -m "Backup : 13/02/2021"
 $ git remote add origin https://github.com/wendell-comp/Sistema-de-Gestao-de-Pessoas.git
-$ git push -u origin master
+$ git push -u origin master ( Atualizar Projeto no Git/Hub
 -----------------------------------------------------------
 
 
-# git init ( Iniciar )
-# git add .  
 #  git pull origin master --allow-unrelated-histories
  (Incorpore as mudanças do seu projeto remoto com seu projeto local)
-# git commit -m "Backup: 16/02/2021"
+
 # git pull origin https://github.com/wendell-comp/Sistema-de-Gestao-de-Pessoas.git
